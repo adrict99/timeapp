@@ -1,10 +1,10 @@
-# time_app
+# Time App
 
 A new way of using your phone
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+My first project and a Flutter app about productivity and time management, created with Flutter, Dart and Firebase.
 
 A few resources to get you started if this is your first Flutter project:
 
