@@ -1,6 +1,6 @@
 # Time App
 
-A new way of using your phone
+My first ever almost completed app. It's the right partner when it comes to organize things.
 
 ## Getting Started
 
